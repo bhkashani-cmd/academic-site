@@ -1,9 +1,24 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Home"
+    url: /
+
+  - title: "Biography"
     url: /about/
+
+  - title: "Curriculum Vitae"
+    url: /cv/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Editorial Activities"
+    url: /editorial/
+
+  - title: "Resources"
+    url: /resources/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Contact"
+    url: /contact/
