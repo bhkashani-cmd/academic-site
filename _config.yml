@@ -15,6 +15,7 @@ github_username: bhkashani-cmd
 minimal_mistakes_skin: default
 search: true
 logo: "/bhk-logo.png"
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
