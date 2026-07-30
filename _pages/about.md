@@ -1,8 +1,37 @@
 ---
+title: "Biography"
 permalink: /about/
-title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Biography
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Welcome to my academic website.
+
+I am **Dr. Behzad Hassannezhad Kashani**, a researcher and academic editor with professional experience in economics, management, scholarly publishing, and research evaluation.
+
+My work focuses on promoting high-quality academic research, improving scholarly communication, and supporting international collaboration among researchers.
+
+Currently, I serve as the **Managing Editor of the International Journal of Management, Accounting and Economics (IJMAE)**, where I contribute to journal management, editorial policy, publication ethics, and international indexing initiatives.
+
+## Research Interests
+
+- Economics
+- Management
+- Scholarly Publishing
+- Research Evaluation
+- Bibliometrics
+- Open Science
+
+## Current Activities
+
+- Managing Editor of IJMAE
+- Academic Publishing
+- Editorial Management
+- Research Evaluation
+- RePEc / ReDIF Repository Development
+
+## Professional Vision
+
+My objective is to contribute to the advancement of scholarly publishing by improving research quality, editorial standards, and the international visibility of academic journals.
