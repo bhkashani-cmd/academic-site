@@ -1,50 +1,46 @@
 ---
-title: "Research"
+title: "Publications"
 permalink: /research/
 layout: single
 author_profile: true
 ---
 
-# Research
+# Publications
 
-This page provides an overview of my research activities and scholarly outputs.
+This page provides a comprehensive list of my scholarly publications.
+
+---
 
 ## Journal Articles
 
-_Content will be added._
+_Publications will be added._
 
 ---
 
 ## Conference Papers
 
-_Content will be added._
+_Publications will be added._
 
 ---
 
 ## Books
 
-_Content will be added._
+_Publications will be added._
 
 ---
 
 ## Book Chapters
 
-_Content will be added._
+_Publications will be added._
 
 ---
 
 ## Working Papers
 
-_Content will be added._
+_Publications will be added._
 
 ---
 
-## Research Projects
+## Reports
 
-_Content will be added._
-
----
-
-## Research Interests
-
-_Content will be added._
+_Publications will be added._
