@@ -25,3 +25,6 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+  - title: "Test"
+    url: /test/
