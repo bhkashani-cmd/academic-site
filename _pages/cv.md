@@ -7,58 +7,54 @@ author_profile: true
 
 # Curriculum Vitae
 
-Welcome to my Curriculum Vitae.
-
-This page provides an overview of my academic and professional background.
-
 ## Education
 
-_Content will be added._
+_To be completed._
+
+---
+
+## Academic Positions
+
+_To be completed._
 
 ---
 
 ## Teaching Experience
 
-_Content will be added._
+_To be completed._
 
 ---
 
-## Professional Experience
+## Editorial Experience
 
-_Content will be added._
-
----
-
-## Executive Positions
-
-_Content will be added._
+_To be completed._
 
 ---
 
-## Editorial Activities
+## Administrative Experience
 
-_Content will be added._
+_To be completed._
 
 ---
 
-## Professional Memberships
+## Research Interests
 
-_Content will be added._
+_To be completed._
 
 ---
 
 ## Awards and Honors
 
-_Content will be added._
+_To be completed._
 
 ---
 
-## Certificates
+## Professional Memberships
 
-_Content will be added._
+_To be completed._
 
 ---
 
 ## Skills
 
-_Content will be added._
+_To be completed._
