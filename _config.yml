@@ -1,10 +1,10 @@
 # Site settings
-title: Dr. Behzad Hassannezhad Kashani
-email:
+title: "Dr. Behzad Hassannezhad Kashani"
+subtitle: "Researcher | Academic Editor | Scholarly Publishing"
+
 description: >-
-  Personal academic website of Dr. Behzad Hassannezhad Kashani, featuring
-  research, publications, editorial activities, academic projects,
-  and RePEc resources.
+  Official academic website of Dr. Behzad Hassannezhad Kashani.
+  Research, publications, teaching, editorial activities, and academic resources.
 
 url: "https://hasannejad.ir"
 baseurl: ""
