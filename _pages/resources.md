@@ -1,44 +1,40 @@
 ---
-title: "Resources"
+title: "Academic Profiles & Resources"
 permalink: /resources/
 layout: single
 author_profile: true
 ---
 
-# Resources
+# Academic Profiles
 
-This page provides access to research resources, downloadable materials, and scholarly files.
+The following academic profiles provide access to my publications, research activities, and scholarly contributions.
 
-## RePEc / ReDIF Files
+## Research Profiles
 
-_Content will be added._
-
----
-
-## Datasets
-
-_Content will be added._
-
----
-
-## Presentations
-
-_Content will be added._
+- Google Scholar
+- ORCID
+- Scopus Author ID
+- ResearchGate
+- Web of Science Researcher Profile
+- RePEc
+- SSRN
 
 ---
 
-## Downloads
+## Professional Profiles
 
-_Content will be added._
-
----
-
-## Documents
-
-_Content will be added._
+- LinkedIn
+- GitHub
 
 ---
 
-## Useful Links
+## Editorial Activities
 
-_Content will be added._
+- International Journal of Management, Accounting and Economics (IJMAE)
+
+---
+
+## Repository
+
+- RePEc / ReDIF
+- Zenodo
