@@ -8,8 +8,11 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
-  - title: "Research"
+  - title: "Publications"
     url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Editorial Activities"
     url: /editorial/
