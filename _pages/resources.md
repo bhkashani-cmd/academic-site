@@ -1,40 +1,34 @@
 ---
-title: "Academic Profiles & Resources"
+title: "Resources"
 permalink: /resources/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
-# Academic Profiles
+# Academic Resources
 
-The following academic profiles provide access to my publications, research activities, and scholarly contributions.
+Useful academic resources and research tools.
+
+---
 
 ## Research Profiles
 
 - Google Scholar
 - ORCID
-- Scopus Author ID
 - ResearchGate
-- Web of Science Researcher Profile
-- RePEc
-- SSRN
+- Scopus
+- Web of Science
 
 ---
 
-## Professional Profiles
+## Research Identifiers
 
-- LinkedIn
-- GitHub
-
----
-
-## Editorial Activities
-
-- International Journal of Management, Accounting and Economics (IJMAE)
+- ORCID
+- DOI
+- Crossref
 
 ---
 
-## Repository
+## Open Science
 
-- RePEc / ReDIF
-- Zenodo
+Resources will be added soon.
