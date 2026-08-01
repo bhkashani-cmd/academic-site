@@ -4,24 +4,33 @@ author:
   bio: "Researcher, Academic Editor, and Managing Editor of IJMAE."
   location: "Iran"
 
-  links:
+ links:
 
-    - label: "Website"
-      icon: "fas fa-fw fa-globe"
-      url: "https://hasannejad.ir"
+  - label: "Website"
+    icon: "fas fa-fw fa-globe"
+    url: "https://hasannejad.ir"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bhkashani-cmd"
 
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "#"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/bhkashani-cmd"
 
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "#"
 
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "#"
+  - label: "Google Scholar"
+    icon: "fas fa-fw fa-graduation-cap"
+    url: "YOUR_GOOGLE_SCHOLAR_LINK"
+
+
+  - label: "ORCID"
+    icon: "fab fa-fw fa-orcid"
+    url: "YOUR_ORCID_LINK"
+
+
+  - label: "ResearchGate"
+    icon: "fab fa-fw fa-researchgate"
+    url: "YOUR_RESEARCHGATE_LINK"
+
+
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "YOUR_LINKEDIN_LINK"
