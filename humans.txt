@@ -1,1 +1,18 @@
+Website:
+Dr. Behzad Hassannezhad Kashani
 
+Role:
+Researcher | Academic Editor | Scholarly Publishing
+
+Research Interests:
+Economics
+Management
+Accounting
+Bibliometrics
+Research Evaluation
+Open Science
+
+Website Platform:
+GitHub Pages
+Jekyll
+Minimal Mistakes Theme
