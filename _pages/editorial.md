@@ -2,43 +2,31 @@
 title: "Editorial Activities"
 permalink: /editorial/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 # Editorial Activities
 
-This page presents my editorial and publishing activities.
+## Current Position
 
-## Managing Editor
+Managing Editor
 
-_Content will be added._
-
----
-
-## Editorial Board Memberships
-
-_Content will be added._
+International Journal of Management, Accounting and Economics (IJMAE)
 
 ---
 
-## Reviewer Activities
+## Editorial Responsibilities
 
-_Content will be added._
-
----
-
-## Journal Development
-
-_Content will be added._
-
----
-
-## Publishing Experience
-
-_Content will be added._
+- Journal Management
+- Editorial Decision Support
+- Peer Review Coordination
+- Publication Ethics
+- Indexing Development
+- International Visibility
+- Editorial Policy Development
 
 ---
 
-## Indexing and Scholarly Communication
+## Academic Publishing
 
-_Content will be added._
+Activities related to scholarly communication, research integrity and international publishing.
