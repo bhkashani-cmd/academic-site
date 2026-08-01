@@ -2,37 +2,36 @@
 title: "Publications"
 permalink: /research/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 # Publications
 
-This page contains journal articles, conference papers, books, book chapters, and other scholarly publications.
-
----
 
 ## Journal Articles
 
-Coming soon.
+Selected research publications will be listed here.
+
 
 ---
 
-## Conference Papers
+## Research Topics
 
-Coming soon.
+- Economics
+- Management
+- Accounting
+- Scholarly Publishing
+- Bibliometrics
+
 
 ---
 
-## Books
+## Profiles
 
-Coming soon.
-
----
-
-## Research Profiles
+Academic profiles:
 
 - Google Scholar
 - ORCID
 - ResearchGate
 - Scopus
-- Web of Science Researcher
+- Web of Science
