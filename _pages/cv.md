@@ -2,59 +2,70 @@
 title: "Curriculum Vitae"
 permalink: /cv/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 # Curriculum Vitae
 
-## Education
+## Personal Information
 
-_To be completed._
-
----
-
-## Academic Positions
-
-_To be completed._
-
----
-
-## Teaching Experience
-
-_To be completed._
-
----
-
-## Editorial Experience
-
-_To be completed._
-
----
-
-## Administrative Experience
-
-_To be completed._
+**Name:** Dr. Behzad Hassannezhad Kashani
 
 ---
 
 ## Research Interests
 
-_To be completed._
+- Economics
+- Management
+- Accounting
+- Scholarly Publishing
+- Bibliometrics
+- Research Evaluation
+- Open Science
+
+---
+
+## Academic Positions
+
+(To be completed)
+
+---
+
+## Editorial Experience
+
+Managing Editor
+
+International Journal of Management, Accounting and Economics (IJMAE)
+
+---
+
+## Teaching Experience
+
+(To be completed)
+
+---
+
+## Executive Experience
+
+(To be completed)
 
 ---
 
 ## Awards and Honors
 
-_To be completed._
-
----
-
-## Professional Memberships
-
-_To be completed._
+(To be completed)
 
 ---
 
 ## Skills
 
-_To be completed._
+- Academic Publishing
+- Journal Management
+- Editorial Workflow
+- Peer Review Management
+
+---
+
+## Contact
+
+(To be completed)
