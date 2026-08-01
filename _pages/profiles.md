@@ -7,21 +7,63 @@ author_profile: true
 
 # Academic Profiles
 
-## Research Platforms
 
-- Google Scholar
-
-- ORCID
-
-- ResearchGate
-
-- Scopus Author Profile
-
-- Web of Science Researcher Profile
-
-- GitHub
+## Research Identity
 
 
-## Scholarly Identity
+My academic profiles and researcher identifiers:
 
-This section provides links to academic identifiers and research profiles.
+
+---
+
+## Google Scholar
+
+Citation profile and research impact.
+
+
+Link:
+Coming soon.
+
+
+---
+
+## ORCID
+
+Persistent researcher identifier.
+
+
+Link:
+Coming soon.
+
+
+---
+
+## ResearchGate
+
+Research publications and academic networking.
+
+
+Link:
+Coming soon.
+
+
+---
+
+## Scopus
+
+Author profile and indexed publications.
+
+
+Link:
+Coming soon.
+
+
+---
+
+## Web of Science
+
+Researcher profile.
+
+
+Link:
+Coming soon.
