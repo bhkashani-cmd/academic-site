@@ -2,31 +2,28 @@
 title: "Contact"
 permalink: /contact/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 # Contact
 
-Professional inquiries are welcome.
 
----
+For academic collaboration, research communication, and editorial inquiries:
+
 
 ## Email
 
-(To be added)
+your-email@example.com
 
----
-
-## Academic Profiles
-
-- Google Scholar
-- ORCID
-- ResearchGate
-- LinkedIn
-- GitHub
-
----
 
 ## Website
 
 https://hasannejad.ir
+
+
+## Academic Profiles
+
+Google Scholar  
+ORCID  
+ResearchGate  
+LinkedIn
