@@ -1,37 +1,23 @@
 ---
-title: "Publications"
-permalink: /research/
+title: "Research Projects"
+permalink: /projects/
 layout: single
 author_profile: true
 ---
 
-# Publications
+# Research Projects
 
 
-## Journal Articles
+## Current Projects
 
-Selected research publications will be listed here.
+Research projects and academic initiatives will be presented here.
 
 
 ---
 
-## Research Topics
+## Areas
 
-- Economics
-- Management
-- Accounting
 - Scholarly Publishing
+- Research Evaluation
 - Bibliometrics
-
-
----
-
-## Profiles
-
-Academic profiles:
-
-- Google Scholar
-- ORCID
-- ResearchGate
-- Scopus
-- Web of Science
+- Open Science
