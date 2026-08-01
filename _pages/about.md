@@ -2,36 +2,53 @@
 title: "Biography"
 permalink: /about/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 # Biography
 
-Welcome to my academic website.
+## Dr. Behzad Hassannezhad Kashani
 
-I am **Dr. Behzad Hassannezhad Kashani**, a researcher and academic editor with professional experience in economics, management, scholarly publishing, and research evaluation.
+Dr. Behzad Hassannezhad Kashani is a researcher in the fields of economics, management, accounting, scholarly publishing, bibliometrics, and research evaluation.
 
-My work focuses on promoting high-quality academic research, improving scholarly communication, and supporting international collaboration among researchers.
+He serves as the **Managing Editor** of the *International Journal of Management, Accounting and Economics (IJMAE)* and has extensive experience in academic publishing, journal management, editorial processes, and research dissemination.
 
-Currently, I serve as the **Managing Editor of the International Journal of Management, Accounting and Economics (IJMAE)**, where I contribute to journal management, editorial policy, publication ethics, and international indexing initiatives.
+His academic interests focus on improving the quality, visibility, and international impact of scholarly publications while promoting open science, publication ethics, and research integrity.
+
+---
 
 ## Research Interests
 
 - Economics
 - Management
+- Accounting
 - Scholarly Publishing
-- Research Evaluation
 - Bibliometrics
-- Open Science
-
-## Current Activities
-
-- Managing Editor of IJMAE
-- Academic Publishing
-- Editorial Management
 - Research Evaluation
-- RePEc / ReDIF Repository Development
+- Open Science
+- Research Integrity
 
-## Professional Vision
+---
 
-My objective is to contribute to the advancement of scholarly publishing by improving research quality, editorial standards, and the international visibility of academic journals.
+## Academic Activities
+
+- Academic Research
+- Journal Editorial Management
+- Scholarly Communication
+- Research Evaluation
+- Scientific Publishing
+- International Collaboration
+
+---
+
+## Current Position
+
+**Managing Editor**
+
+International Journal of Management, Accounting and Economics (IJMAE)
+
+---
+
+## Vision
+
+My objective is to contribute to the advancement of scientific communication by supporting high-quality research, promoting ethical publishing practices, and enhancing the international visibility of scholarly work.
