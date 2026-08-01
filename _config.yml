@@ -30,6 +30,10 @@ author:
     icon: "fab fa-fw fa-researchgate"
     url: "YOUR_RESEARCHGATE_LINK"
 
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
 
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
