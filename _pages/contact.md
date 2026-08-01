@@ -2,57 +2,31 @@
 title: "Contact"
 permalink: /contact/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 # Contact
 
-Thank you for visiting my website.
+Professional inquiries are welcome.
 
-Please feel free to contact me regarding academic collaboration, research, editorial activities, or professional inquiries.
+---
 
 ## Email
 
-_Content will be added._
+(To be added)
 
 ---
 
-## ORCID
+## Academic Profiles
 
-_Content will be added._
-
----
-
-## Google Scholar
-
-_Content will be added._
+- Google Scholar
+- ORCID
+- ResearchGate
+- LinkedIn
+- GitHub
 
 ---
 
-## Scopus Author ID
+## Website
 
-_Content will be added._
-
----
-
-## ResearchGate
-
-_Content will be added._
-
----
-
-## LinkedIn
-
-_Content will be added._
-
----
-
-## GitHub
-
-_Content will be added._
-
----
-
-## RePEc
-
-_Content will be added._
+https://hasannejad.ir
