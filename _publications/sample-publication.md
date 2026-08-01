@@ -1,19 +1,18 @@
 ---
 title: "Sample Research Article Title"
 collection: publications
-type: "Journal Article"
-permalink: /publication/sample-publication
+category: manuscripts
+permalink: /publication/sample-publication/
 date: 2026-01-01
 venue: "Journal Name"
-authors:
-  - "Dr. Behzad Hassannezhad Kashani"
+excerpt: "Sample description of the research article."
 paperurl: "https://doi.org/"
-citation: "Author. (2026). Sample Research Article Title. Journal Name."
+citation: "Dr. Behzad Hassannezhad Kashani. (2026). Sample Research Article Title. Journal Name."
 ---
 
 ## Abstract
 
-Abstract of the research article will be displayed here.
+This is a sample abstract for testing the publication page.
 
 ## Keywords
 
