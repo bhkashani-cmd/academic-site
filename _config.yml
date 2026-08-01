@@ -35,6 +35,14 @@ collections:
     output: true
     permalink: /publication/:path/
 
+defaults:
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      
   - label: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
     url: "YOUR_LINKEDIN_LINK"
