@@ -1,11 +1,12 @@
 main:
+
   - title: "Home"
     url: /
 
   - title: "Biography"
     url: /about/
 
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
 
   - title: "Publications"
@@ -14,7 +15,7 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Editorial Activities"
+  - title: "Editorial"
     url: /editorial/
 
   - title: "Resources"
@@ -25,6 +26,3 @@ main:
 
   - title: "Contact"
     url: /contact/
-
-  - title: "Test"
-    url: /test/
