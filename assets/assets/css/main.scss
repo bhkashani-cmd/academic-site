@@ -1,1 +1,49 @@
+---
+---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+
+body {
+  font-family: "Georgia", serif;
+}
+
+
+.masthead {
+  background:#163A5F;
+}
+
+
+.site-title {
+  color:white !important;
+  font-weight:700;
+}
+
+
+.greedy-nav a {
+  color:#333;
+}
+
+
+.page__title {
+  color:#163A5F;
+  font-weight:700;
+}
+
+
+.notice--primary {
+  border-left:5px solid #163A5F;
+}
+
+
+.btn--primary {
+  background:#163A5F;
+}
+
+
+.author__avatar img {
+  border-radius:50%;
+}
