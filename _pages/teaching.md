@@ -2,37 +2,27 @@
 title: "Teaching"
 permalink: /teaching/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
-# Teaching
+# Teaching Experience
 
-This page presents my teaching experience and academic supervision.
-
-## Courses Taught
-
-_Content will be added._
+Teaching activities, courses, workshops and academic supervision will be presented here.
 
 ---
 
-## Teaching Interests
+## University Courses
 
-_Content will be added._
-
----
-
-## Workshops and Seminars
-
-_Content will be added._
+Coming soon.
 
 ---
 
-## Thesis Supervision
+## Workshops
 
-_Content will be added._
+Coming soon.
 
 ---
 
-## Academic Mentoring
+## Student Supervision
 
-_Content will be added._
+Coming soon.
