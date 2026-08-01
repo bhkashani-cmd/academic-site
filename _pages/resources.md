@@ -1,34 +1,34 @@
 ---
-title: "Resources"
+title: "Academic Resources"
 permalink: /resources/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 # Academic Resources
 
-Useful academic resources and research tools.
 
----
+## Research Resources
 
-## Research Profiles
+- Publications
+- Research Data
+- Academic Profiles
+- Scholarly Communication Resources
 
-- Google Scholar
-- ORCID
-- ResearchGate
-- Scopus
-- Web of Science
-
----
-
-## Research Identifiers
-
-- ORCID
-- DOI
-- Crossref
 
 ---
 
 ## Open Science
 
-Resources will be added soon.
+Resources related to:
+
+- Open Access
+- Research Transparency
+- Scholarly Publishing
+
+
+---
+
+## RePEc Repository
+
+Research papers and academic materials will be available here.
