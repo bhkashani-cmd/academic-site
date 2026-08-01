@@ -9,19 +9,18 @@ description: >-
 url: "https://hasannejad.ir"
 baseurl: ""
 
-twitter_username:
-github_username: bhkashani-cmd
+minimal_mistakes_skin: "default"
 
-minimal_mistakes_skin: default
 search: true
-logo: "/bhk-logo.png"
-breadcrumbs: true
+
+logo: ""
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 permalink: /:categories/:title/
+
 paginate: 5
 paginate_path: /page:num/
 
@@ -38,10 +37,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
 # Author Profile
 author:
   name: "Dr. Behzad Hassannezhad Kashani"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile.jpg"
   bio: "Researcher, Academic Editor, and Managing Editor of the International Journal of Management, Accounting and Economics (IJMAE)."
   location: "Iran"
 
@@ -54,6 +54,19 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bhkashani-cmd"
 
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "#"
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "#"
+
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "#"
+
+
 # Footer
 footer:
   links:
@@ -61,8 +74,10 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bhkashani-cmd"
 
+
 # Defaults
 defaults:
+
   - scope:
       path: ""
       type: posts
@@ -71,8 +86,9 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      share: false
+      share: true
       related: false
+
 
   - scope:
       path: "_pages"
@@ -80,6 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
 
 # Archives
 category_archive:
