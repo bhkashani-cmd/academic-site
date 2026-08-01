@@ -1,23 +1,40 @@
 ---
-title: "Research Projects"
-permalink: /projects/
+title: "Publications"
+permalink: /research/
 layout: single
 author_profile: true
 ---
 
-# Research Projects
+# Publications
+
+Selected research publications including journal articles, conference papers, and scholarly works.
 
 
-## Current Projects
-
-Research projects and academic initiatives will be presented here.
-
+{% for publication in site.publications %}
 
 ---
 
-## Areas
+## {{ publication.title }}
 
-- Scholarly Publishing
-- Research Evaluation
-- Bibliometrics
-- Open Science
+**Type:** {{ publication.type }}  
+**Venue:** {{ publication.venue }}  
+**Date:** {{ publication.date | date: "%Y" }}
+
+{% if publication.authors %}
+**Authors:** {{ publication.authors | join: ", " }}
+{% endif %}
+
+
+{% if publication.paperurl %}
+[View Article]({{ publication.paperurl }})
+{% endif %}
+
+
+{% if publication.citation %}
+### Citation
+
+{{ publication.citation }}
+{% endif %}
+
+
+{% endfor %}
