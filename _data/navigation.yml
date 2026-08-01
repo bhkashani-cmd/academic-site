@@ -9,24 +9,24 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Editorial"
+  - title: "Editorial Activities"
     url: /editorial/
 
   - title: "Experience"
     url: /experience/
 
+  - title: "Profiles"
+    url: /profiles/
+
   - title: "Resources"
     url: /resources/
 
-  - title: "Profiles"
-    url: /profiles/
-    
   - title: "News"
     url: /news/
 
