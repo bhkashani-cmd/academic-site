@@ -1,41 +1,87 @@
+title: "Dr. Behzad Hassannezhad Kashani"
+subtitle: "Researcher | Academic Editor | Scholarly Publishing"
+
+description: >-
+  Official academic website of Dr. Behzad Hassannezhad Kashani.
+  Research, publications, teaching, editorial activities, and academic resources.
+
+url: "https://hasannejad.ir"
+baseurl: ""
+
+github_username: bhkashani-cmd
+
+minimal_mistakes_skin: default
+search: true
+logo: "/bhk-logo.png"
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+permalink: /:categories/:title/
+
+paginate: 5
+paginate_path: /page:num/
+
+timezone: Asia/Tehran
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
 author:
   name: "Dr. Behzad Hassannezhad Kashani"
   avatar: "/assets/images/profile.jpg"
-  bio: "Researcher, Academic Editor, and Managing Editor of IJMAE."
+  bio: "Researcher, Academic Editor, and Managing Editor of the International Journal of Management, Accounting and Economics (IJMAE)."
   location: "Iran"
 
- links:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-globe"
+      url: "https://hasannejad.ir"
 
-  - label: "Website"
-    icon: "fas fa-fw fa-globe"
-    url: "https://hasannejad.ir"
-
-
-  - label: "GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/bhkashani-cmd"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bhkashani-cmd"
 
 
-  - label: "Google Scholar"
-    icon: "fas fa-fw fa-graduation-cap"
-    url: "YOUR_GOOGLE_SCHOLAR_LINK"
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bhkashani-cmd"
 
 
-  - label: "ORCID"
-    icon: "fab fa-fw fa-orcid"
-    url: "YOUR_ORCID_LINK"
+defaults:
 
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
 
-  - label: "ResearchGate"
-    icon: "fab fa-fw fa-researchgate"
-    url: "YOUR_RESEARCHGATE_LINK"
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 
 collections:
   publications:
     output: true
-    permalink: /publication/:title/
+    permalink: /publication/:path/
 
-defaults:
+
   - scope:
       path: ""
       type: publications
@@ -43,14 +89,11 @@ defaults:
       layout: single
       author_profile: true
 
-defaults:
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      
-  - label: "LinkedIn"
-    icon: "fab fa-fw fa-linkedin"
-    url: "YOUR_LINKEDIN_LINK"
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
