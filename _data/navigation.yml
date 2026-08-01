@@ -6,29 +6,20 @@ main:
   - title: "Biography"
     url: /about/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Editorial Activities"
+  - title: "Editorial"
     url: /editorial/
 
-  - title: "Experience"
-    url: /experience/
-
-  - title: "Profiles"
-    url: /profiles/
+  - title: "CV"
+    url: /cv/
 
   - title: "Resources"
     url: /resources/
-
-  - title: "News"
-    url: /news/
 
   - title: "Contact"
     url: /contact/
