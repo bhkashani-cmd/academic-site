@@ -1,41 +1,3 @@
-# Site settings
-title: "Dr. Behzad Hassannezhad Kashani"
-subtitle: "Researcher | Academic Editor | Scholarly Publishing"
-
-description: >-
-  Official academic website of Dr. Behzad Hassannezhad Kashani.
-  Research, publications, teaching, editorial activities, and academic resources.
-
-url: "https://hasannejad.ir"
-baseurl: ""
-
-minimal_mistakes_skin: "air"
-
-search: true
-logo: ""
-
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-
-permalink: /:categories/:title/
-
-paginate: 5
-paginate_path: /page:num/
-
-timezone: Asia/Tehran
-
-include:
-  - _pages
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
-
 author:
   name: "Dr. Behzad Hassannezhad Kashani"
   avatar: "/assets/images/profile.jpg"
@@ -52,37 +14,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bhkashani-cmd"
 
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "#"
 
-footer:
-  links:
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "#"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bhkashani-cmd"
-
-
-defaults:
-
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-
-
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-
-category_archive:
-  type: liquid
-  path: /categories/
-
-tag_archive:
-  type: liquid
-  path: /tags/
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "#"
