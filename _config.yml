@@ -12,6 +12,7 @@ github_username: bhkashani-cmd
 
 minimal_mistakes_skin: default
 search: true
+
 logo: "/bhk-logo.png"
 
 markdown: kramdown
@@ -60,7 +61,6 @@ footer:
 
 
 defaults:
-
   - scope:
       path: ""
       type: posts
@@ -75,19 +75,18 @@ defaults:
       layout: single
       author_profile: true
 
-
-collections:
-  publications:
-    output: true
-    permalink: /publication/:path/
-
-
   - scope:
       path: ""
       type: publications
     values:
       layout: single
       author_profile: true
+
+
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
 
 
 category_archive:
