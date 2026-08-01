@@ -2,37 +2,15 @@
 title: "News"
 permalink: /news/
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 # News
 
-This page highlights my latest academic and professional news.
-
-## Announcements
-
-_Content will be added._
+Latest academic updates, publications, research activities and professional announcements.
 
 ---
 
-## Publications
+## Recent Activities
 
-_Content will be added._
-
----
-
-## Conferences
-
-_Content will be added._
-
----
-
-## Editorial News
-
-_Content will be added._
-
----
-
-## Academic Events
-
-_Content will be added._
+Coming soon.
