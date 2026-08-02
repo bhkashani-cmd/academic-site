@@ -9,28 +9,30 @@ author_profile: true
 
 ## Teaching Experience
 
-Dr. Behzad Hassannezhad Kashani has experience in academic teaching and educational activities in the fields of management, media management, communication, and related interdisciplinary areas.
+Dr. Behzad Hassannezhad Kashani has academic teaching experience in the fields of management, media management, communication studies, and related areas.
 
-His teaching activities have focused on integrating theoretical foundations with practical perspectives in management, communication, media studies, and organizational issues.
+His teaching activities are connected with his academic background and research interests in media, communication, management, and interdisciplinary studies.
+
+---
 
 ## Teaching Areas
 
+Teaching and academic interests include:
+
 - Media Management
-- Communication Management
-- Strategic Management
-- Marketing Communication
+- Communication Studies
 - Management Studies
+- Marketing Communication
+- Strategic Media Planning
 - Research Methodology
+
+---
 
 ## Educational Approach
 
-Teaching activities emphasize:
+Teaching activities focus on:
 
-- Connecting academic theories with real-world organizational challenges
-- Developing analytical and research skills among students
-- Encouraging critical thinking and interdisciplinary approaches
-- Applying contemporary management and communication concepts
-
-## Academic Supervision and Mentoring
-
-Academic activities also include supporting students and researchers in developing research ideas, improving academic writing skills, and understanding research methodologies.
+- Presenting theoretical concepts in management and communication fields
+- Connecting academic knowledge with practical applications
+- Developing analytical thinking and research skills
+- Encouraging interdisciplinary perspectives in academic studies
