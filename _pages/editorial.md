@@ -9,26 +9,32 @@ author_profile: true
 
 ## Academic Editorial Activities
 
-My editorial activities are focused on supporting scholarly communication, academic publishing, and the dissemination of research findings.
-
-## Journal Editorial Activities
-
-I have been involved in academic journal management and editorial processes, including:
-
-- Coordination of scholarly publications
-- Management of manuscript submission and review processes
-- Communication with authors and reviewers
-- Supporting the quality improvement of academic publications
+My editorial activities are related to scholarly communication, academic publishing, and supporting the dissemination of research findings.
 
 ## Scholarly Publishing Interests
 
 My interests in scholarly publishing include:
 
-- Academic journal development
+- Academic publishing practices
+- Journal development and improvement
 - Research dissemination
 - Publication quality and evaluation
-- Improving the visibility and accessibility of scholarly works
+- Research visibility and accessibility
 
-## Academic Service
+## Peer Review and Academic Service
 
-Through editorial and academic activities, I aim to contribute to the advancement of research communication and support the publication of high-quality academic work.
+My academic service activities include contributing to scholarly evaluation and supporting research communication through:
+
+- Manuscript review and academic evaluation
+- Supporting publication quality standards
+- Promoting ethical research and publication practices
+- Encouraging knowledge exchange among researchers
+
+## Research Communication
+
+I am interested in developments related to:
+
+- Scholarly communication
+- Open science
+- Research evaluation
+- Academic publishing standards
