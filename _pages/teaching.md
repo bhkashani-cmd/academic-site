@@ -5,44 +5,32 @@ layout: single
 author_profile: true
 ---
 
-# Teaching Experience
+# Teaching
 
-I have been involved in academic teaching activities as a visiting lecturer at several higher education institutions in Iran. My teaching experience covers courses related to management, business studies, and related fields. :contentReference[oaicite:1]{index=1}
+## Teaching Experience
 
+Dr. Behzad Hassannezhad Kashani has experience in academic teaching and educational activities in the fields of management, media management, communication, and related interdisciplinary areas.
 
-## Academic Positions
+His teaching activities have focused on integrating theoretical foundations with practical perspectives in management, communication, media studies, and organizational issues.
 
-### Visiting Lecturer  
-**Imam Reza International University**  
-Winter 2010 – Present :contentReference[oaicite:2]{index=2}
+## Teaching Areas
 
-
-### Visiting Lecturer  
-**Baqir al-Olum University**  
-Winter 2021 – Present :contentReference[oaicite:3]{index=3}
-
-
-### Visiting Lecturer  
-**University of Applied Science and Technology, Mashhad**  
-Winter 2011 – Spring 2014 :contentReference[oaicite:4]{index=4}
-
-
-### Visiting Lecturer  
-**Kavian Higher Education Institute**  
-Fall 2009 – Spring 2011 :contentReference[oaicite:5]{index=5}
-
-
-### Visiting Lecturer  
-**Islamic Azad University, Neyshabur Branch**  
-Fall 2009 – Spring 2014 :contentReference[oaicite:6]{index=6}
-
-
-## Teaching Interests
-
-My teaching interests are connected to my academic background in:
-
+- Media Management
+- Communication Management
+- Strategic Management
+- Marketing Communication
 - Management Studies
-- Business Management
-- Marketing
-- Communication and Media Studies
-- Research Methods
+- Research Methodology
+
+## Educational Approach
+
+Teaching activities emphasize:
+
+- Connecting academic theories with real-world organizational challenges
+- Developing analytical and research skills among students
+- Encouraging critical thinking and interdisciplinary approaches
+- Applying contemporary management and communication concepts
+
+## Academic Supervision and Mentoring
+
+Academic activities also include supporting students and researchers in developing research ideas, improving academic writing skills, and understanding research methodologies.
