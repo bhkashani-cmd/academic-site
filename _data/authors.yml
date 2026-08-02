@@ -1,1 +1,18 @@
-
+default:
+  name: "Dr. Behzad Hassannezhad Kashani"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Researcher, Academic Editor, and Managing Editor of the International Journal of Management, Accounting and Economics (IJMAE)."
+  location: "Iran"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hasannejad.ir"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "#"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "#"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bhkashani-cmd"
