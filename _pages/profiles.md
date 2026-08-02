@@ -7,63 +7,61 @@ author_profile: true
 
 # Academic Profiles
 
-
 ## Research Identity
 
-
-My academic profiles and researcher identifiers:
+Academic profiles and researcher identifiers are provided below to support access to research activities, publications, and academic contributions.
 
 
 ---
 
 ## Google Scholar
 
-Citation profile and research impact.
-
+Citation profile, publications, and research impact indicators.
 
 Link:
-Coming soon.
+
+(Add Google Scholar profile link)
 
 
 ---
 
 ## ORCID
 
-Persistent researcher identifier.
-
+Persistent researcher identifier for academic publications and research activities.
 
 Link:
-Coming soon.
+
+(Add ORCID profile link)
 
 
 ---
 
 ## ResearchGate
 
-Research publications and academic networking.
-
+Academic networking profile and access to research publications.
 
 Link:
-Coming soon.
+
+(Add ResearchGate profile link)
 
 
 ---
 
 ## Scopus
 
-Author profile and indexed publications.
-
+Author profile and indexed research publications.
 
 Link:
-Coming soon.
+
+(Add Scopus Author ID link)
 
 
 ---
 
 ## Web of Science
 
-Researcher profile.
-
+Researcher profile and publication records.
 
 Link:
-Coming soon.
+
+(Add Web of Science Researcher Profile link)
