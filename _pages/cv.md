@@ -11,7 +11,7 @@ author_profile: true
 
 ### Academic Profile
 
-Dr. Behzad Hassannezhad Kashani is a researcher in Media Management with academic interests in media policy, cyberspace governance, communication studies, marketing communication, and strategic media planning.
+Dr. Behzad Hassannezhad Kashani is a researcher in Media Management with academic interests in media policy, cyberspace policymaking, communication studies, marketing communication, and strategic media planning.
 
 His academic background includes research activities in media management, communication sciences, policymaking in cyberspace, and related management fields.
 
@@ -21,13 +21,13 @@ His academic background includes research activities in media management, commun
 
 ### Ph.D. in Media Management
 
-Research field: Media Management
+**Research Field:** Media Management
 
-Doctoral dissertation:
+**Doctoral Dissertation:**
 
 **Developing a Desirable System for Cyberspace Policymaking in Iran**
 
-The research focused on identifying policymaking institutions, policy themes, and policymaking processes in cyberspace governance.
+The research focused on identifying cyberspace policymaking institutions, policy themes, and policymaking processes to develop a conceptual model for cyberspace governance.
 
 ---
 
@@ -47,7 +47,7 @@ The research focused on identifying policymaking institutions, policy themes, an
 
 ## Academic Publications
 
-Research outputs include journal articles and conference papers in areas related to:
+Research outputs include academic publications and conference presentations in areas related to:
 
 - Media and communication studies
 - Cyberspace policymaking
@@ -60,10 +60,13 @@ Research outputs include journal articles and conference papers in areas related
 
 ## Academic Activities
 
+Academic activities include:
+
 - Research in media management and communication studies
 - Scientific writing and publication activities
 - Participation in academic conferences
 - Research collaboration
+- Contribution to scholarly communication
 
 ---
 
@@ -75,9 +78,4 @@ Research outputs include journal articles and conference papers in areas related
 - Media Analysis
 - Policy Analysis
 - Communication Studies
-
----
-
-## Contact
-
-For academic collaboration and research inquiries, please use the contact information provided on this website.
+- Strategic Planning
