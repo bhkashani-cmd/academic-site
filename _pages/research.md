@@ -21,14 +21,14 @@ My research interests include:
 - Advertising Planning
 - Strategic Media Planning
 
-These research areas are reflected in my doctoral research, academic publications, and conference presentations. :contentReference[oaicite:0]{index=0}
+These research areas are reflected in my doctoral research, academic publications, and conference presentations.
 
 
 ## Research Background
 
-My doctoral research in Media Management focused on developing a desirable system for cyberspace policymaking in Iran. The study examined policymaking institutions, policy themes, and policymaking processes to develop a practical model for cyberspace governance. :contentReference[oaicite:1]{index=1}
+My doctoral research in Media Management focused on developing a desirable system for cyberspace policymaking in Iran. The study examined policymaking institutions, policy themes, and policymaking processes to develop a practical model for cyberspace governance.
 
-My previous research has also addressed topics in marketing and business management, including customer perceived value, customer satisfaction, insurance services, communication technologies, knowledge management, and organizational issues. :contentReference[oaicite:2]{index=2}
+My previous research has also addressed topics related to marketing and business management, including customer perceived value, customer satisfaction, insurance services, communication technologies, knowledge management, and organizational issues.
 
 
 ## Research Areas
@@ -66,4 +66,8 @@ Research interests also include:
 
 ## Publications and Academic Contributions
 
-My research outcomes have been published in national and international academic journals and presented at international conferences. The publications cover topics including cyberspace policy, communication technologies, marketing, insurance services, accounting, knowledge management, and management studies. :contentReference[oaicite:3]{index=3}
+My research findings have been published in academic journals and presented at scientific conferences.
+
+A complete list of publications is available on the Publications page.
+
+[View Publications](/publications/)
