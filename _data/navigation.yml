@@ -1,9 +1,5 @@
 main:
-
-  - title: "Home"
-    url: /
-
-  - title: "Biography"
+  - title: "About"
     url: /about/
 
   - title: "Research"
@@ -12,14 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Editorial"
     url: /editorial/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Resources"
-    url: /resources/
 
   - title: "Contact"
     url: /contact/
