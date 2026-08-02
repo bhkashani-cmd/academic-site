@@ -13,7 +13,7 @@ baseurl: ""
 repository: "bhkashani-cmd/academic-site"
 
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 
 
 minimal_mistakes_skin: "default"
