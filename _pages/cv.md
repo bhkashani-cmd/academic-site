@@ -9,11 +9,15 @@ author_profile: true
 
 ## Dr. Behzad Hassannezhad Kashani
 
-### Academic Profile
+[Download Full CV (PDF)](/files/CV.pdf)
 
-Dr. Behzad Hassannezhad Kashani is a researcher in Media Management with academic interests in media policy, cyberspace policymaking, communication studies, marketing communication, and strategic media planning.
+---
 
-His academic background includes research activities in media management, communication sciences, policymaking in cyberspace, and related management fields.
+## Academic Profile
+
+Dr. Behzad Hassannezhad Kashani is a researcher in the field of Media Management with academic interests in media policy, cyberspace policymaking, communication studies, marketing communication, and strategic media planning.
+
+His academic background includes research in media management, communication sciences, internet management, and related areas of management studies.
 
 ---
 
@@ -21,13 +25,14 @@ His academic background includes research activities in media management, commun
 
 ### Ph.D. in Media Management
 
-**Research Field:** Media Management
+**Research Field:**  
+Media Management
 
-**Doctoral Dissertation:**
+**Doctoral Dissertation:**  
 
 **Developing a Desirable System for Cyberspace Policymaking in Iran**
 
-The research focused on identifying cyberspace policymaking institutions, policy themes, and policymaking processes to develop a conceptual model for cyberspace governance.
+The doctoral research examined cyberspace policymaking institutions, policy themes, and policymaking processes to develop a framework for cyberspace governance.
 
 ---
 
@@ -45,16 +50,32 @@ The research focused on identifying cyberspace policymaking institutions, policy
 
 ---
 
+## Research Areas
+
+### Media Management and Policy
+
+Research related to media organizations, media systems, media policy, and cyberspace policymaking.
+
+### Communication Studies
+
+Research interests include human communication, communication technologies, and communication processes.
+
+### Marketing Communication
+
+Research activities related to advertising planning, strategic media planning, and communication strategies.
+
+---
+
 ## Academic Publications
 
-Research outputs include academic publications and conference presentations in areas related to:
+Research outputs include academic journal articles and conference presentations in areas related to:
 
-- Media and communication studies
+- Media management
+- Communication studies
 - Cyberspace policymaking
 - Communication technologies
 - Marketing communication
 - Management studies
-- Knowledge management
 
 ---
 
@@ -62,11 +83,10 @@ Research outputs include academic publications and conference presentations in a
 
 Academic activities include:
 
-- Research in media management and communication studies
-- Scientific writing and publication activities
+- Academic research
+- Scientific writing
+- Publication of research outputs
 - Participation in academic conferences
-- Research collaboration
-- Contribution to scholarly communication
 
 ---
 
