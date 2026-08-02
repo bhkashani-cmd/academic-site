@@ -1,49 +1,101 @@
 ---
 ---
 
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
 
-body {
-  font-family: "Georgia", serif;
+/* Main width */
+.page {
+  max-width: 1200px;
 }
 
 
-.masthead {
-  background:#163A5F;
+/* Site title */
+.masthead__menu-item {
+  font-size: 14px;
 }
-
 
 .site-title {
-  color:white !important;
-  font-weight:700;
+  font-weight: 700;
+  font-size: 18px;
 }
 
 
-.greedy-nav a {
-  color:#333;
+/* Home intro */
+.home-intro {
+  background: #f5f7fa;
+  padding: 35px;
+  border-radius: 12px;
+  margin-bottom: 35px;
+  border-left: 5px solid #1f4e79;
+}
+
+.home-intro h1 {
+  color: #1f4e79;
+  font-size: 36px;
 }
 
 
-.page__title {
-  color:#163A5F;
-  font-weight:700;
+/* Research cards */
+.research-box h2,
+.academic-role h2 {
+  color: #1f4e79;
+  margin-top: 35px;
 }
 
 
-.notice--primary {
-  border-left:5px solid #163A5F;
+.interest-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
 }
 
 
-.btn--primary {
-  background:#163A5F;
+.interest-grid div {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
 }
 
 
-.author__avatar img {
-  border-radius:50%;
+.interest-grid h3 {
+  color: #1f4e79;
+}
+
+
+/* Academic role */
+.academic-role {
+  background: #f8f9fb;
+  padding: 25px;
+  border-radius: 10px;
+  margin-top: 35px;
+}
+
+
+/* Buttons */
+.quick-links a {
+  display: inline-block;
+  margin: 10px 8px 0 0;
+  padding: 10px 18px;
+  background: #1f4e79;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+
+.quick-links a:hover {
+  background: #163a5c;
+}
+
+
+/* Mobile */
+@media (max-width: 768px) {
+
+  .interest-grid {
+    grid-template-columns: 1fr;
+  }
+
 }
