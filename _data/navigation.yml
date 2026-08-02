@@ -1,21 +1,21 @@
 main:
   - title: "About"
-    url: /about/
+    url: "/about/"
 
   - title: "Research"
-    url: /research/
+    url: "/research/"
 
   - title: "Publications"
-    url: /publications/
+    url: "/publications/"
 
   - title: "Teaching"
-    url: /teaching/
+    url: "/teaching/"
 
-   - title: "Editorial Activities"
-    url: /editorial/
+  - title: "Editorial"
+    url: "/editorial/"
 
   - title: "CV"
-    url: /cv/
+    url: "/cv/"
 
   - title: "Contact"
-    url: /contact/
+    url: "/contact/"
