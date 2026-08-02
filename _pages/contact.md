@@ -7,14 +7,7 @@ author_profile: true
 
 # Contact
 
-
-For academic collaboration, research communication, and editorial inquiries:
-
-
-## Email
-
-your-email@example.com
-
+For academic collaboration, research communication, and professional inquiries, please use the contact information and academic profiles below.
 
 ## Website
 
@@ -23,7 +16,9 @@ https://hasannejad.ir
 
 ## Academic Profiles
 
-Google Scholar  
-ORCID  
-ResearchGate  
-LinkedIn
+Academic profiles and research activities can be accessed through the following platforms:
+
+- Google Scholar
+- ORCID
+- ResearchGate
+- LinkedIn
