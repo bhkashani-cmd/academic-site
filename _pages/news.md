@@ -7,10 +7,18 @@ author_profile: false
 
 # News
 
-Latest academic updates, publications, research activities and professional announcements.
+Academic updates, research activities, publications, conference participation, and professional announcements will be shared on this page.
 
 ---
 
-## Recent Activities
+## Recent Updates
 
-Coming soon.
+Updates related to:
+
+- Research activities
+- Academic publications
+- Conference presentations
+- New academic projects
+- Professional announcements
+
+will be added periodically.
