@@ -2,31 +2,33 @@
 title: "Editorial Activities"
 permalink: /editorial/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 # Editorial Activities
 
-## Current Position
+## Academic Editorial Activities
 
-Managing Editor
+My editorial activities are focused on supporting scholarly communication, academic publishing, and the dissemination of research findings.
 
-International Journal of Management, Accounting and Economics (IJMAE)
+## Journal Editorial Activities
 
----
+I have been involved in academic journal management and editorial processes, including:
 
-## Editorial Responsibilities
+- Coordination of scholarly publications
+- Management of manuscript submission and review processes
+- Communication with authors and reviewers
+- Supporting the quality improvement of academic publications
 
-- Journal Management
-- Editorial Decision Support
-- Peer Review Coordination
-- Publication Ethics
-- Indexing Development
-- International Visibility
-- Editorial Policy Development
+## Scholarly Publishing Interests
 
----
+My interests in scholarly publishing include:
 
-## Academic Publishing
+- Academic journal development
+- Research dissemination
+- Publication quality and evaluation
+- Improving the visibility and accessibility of scholarly works
 
-Activities related to scholarly communication, research integrity and international publishing.
+## Academic Service
+
+Through editorial and academic activities, I aim to contribute to the advancement of research communication and support the publication of high-quality academic work.
