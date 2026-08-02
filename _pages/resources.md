@@ -8,27 +8,46 @@ author_profile: true
 # Academic Resources
 
 
-## Research Resources
+## RePEc Repository
 
-- Publications
-- Research Data
-- Academic Profiles
-- Scholarly Communication Resources
+This website provides access to academic resources and research materials prepared for indexing and dissemination through the **Research Papers in Economics (RePEc)** network.
+
+The repository includes research papers, working papers, publications, and academic materials organized according to RePEc standards.
 
 
 ---
 
-## Open Science
+## Research Materials
+
+Available academic resources include:
+
+- Research papers
+- Publications
+- Curriculum Vitae
+- Academic documents
+- Research-related materials
+
+
+---
+
+## Scholarly Communication
 
 Resources related to:
 
-- Open Access
-- Research Transparency
-- Scholarly Publishing
+- Academic publishing
+- Research dissemination
+- Research visibility
+- Scholarly communication
 
 
 ---
 
-## RePEc Repository
+## Research Information
 
-Research papers and academic materials will be available here.
+Additional information about academic activities, publications, research interests, and professional contributions is available through the following sections:
+
+- Research
+- Publications
+- Academic Profiles
+- Curriculum Vitae
+- Editorial Activities
