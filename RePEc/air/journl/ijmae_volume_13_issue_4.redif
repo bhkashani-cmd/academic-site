@@ -1,0 +1,98 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Gordian Bwemelo
+Author-Name: Galan Mashenene
+Title: Factors Influencing Employees’ Commitment to Quality Improvement Practices among Manufacturing Enterprises in Tanzania
+Abstract: Employee commitment to quality improvement initiatives has been postulated as a critical driver sustainable quality improvement across business firms. While determinants of this commitment have been studied globally, little is known of such drivers for the Tanzanian manufacturing sector. Using a mixed-methods cross-sectional design, data were collected from 408 employees across 22 firms and analysed through descriptive statistics, correlations, multiple regression, and thematic analysis. Results showed that employee commitment to quality improvement was moderate. Multiple regression analysis revealed that management support, employee empowerment, communication and training significantly and positively predict the commitment of employees to quality improvement. Recognition and rewards, despite being emotionally valued by employees, did not exhibit influence mainly because it had been not consistently implemented. Qualitative results reinforced the role of leadership, trust, empowerment, timely feedback, and adequate resources in shaping commitment. The study concludes that employee commitments hinge on how management supports and engages employees. It is, therefore, imperative that Tanzanian manufacturing enterprises emphasise on managerial support, employee involvement, communication and hands-on practical training in order to develop a strong quality culture. Manufacturing firms should equip frontline staff with hands-on training on tools like 5S, root-cause analysis, basic statistical process control, and mistake-proofing to build competence and confidence. Additionally, where possible, firms should strategically integrate these ground level improvement practices to ISO 9001 processes so as to institutionalise gains and foster quality.
+Keywords: Employee commitment,Manufacturing Enterprises,quality improvement
+Journal: International Journal of Management, Accounting and Economics
+Pages: 384-412
+Volume: 13
+Issue: 4
+Year: 2026
+DOI: 10.22034/ijmae.2026.564862.1909
+File-URL: https://www.ijmae.com/article_242089_ab8e545306f8621feac61c570bdb7d96.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:4:p:384
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Arzoo Shirvani
+Author-Name: Maryam Emamimibody
+Title: The Moderating Position of Business Training on the Financial Literacy and Specialization of Audit Committee in Earnings Management
+Abstract: This study examines the moderating role of business education in the relationship between financial literacy, audit committee specialization, and earnings management in 120 companies listed on the Tehran Stock Exchange over the period 2014–2023. To test the research hypotheses, a multiple linear regression model with fixed effects and panel data methodology was employed. To address potential endogeneity and instrument-related issues, the two-stage least squares (2SLS) estimation method was applied. The results indicate that business education significantly reduces earnings management. Furthermore, the audit committee specialization indicators, including the proportion of members holding Certified Public Accountant (CPA) credentials, the proportion of members with a master’s degree or higher in accounting or finance, the proportion of members with professional experience in accounting or finance, and the proportion of members with experience in governmental organizations, also have a significant negative impact on earnings management. In addition, the interaction between business education and the financial literacy and specialization indicators of the audit committee strengthens their mitigating effect on earnings management. Audit committee independence likewise demonstrates a significant negative effect on earnings management. Overall, the findings suggest that the combination of financial expertise, professional experience, and business education of audit committee members enhances the effectiveness of oversight, reduces information asymmetry, constrains managerial opportunism, and ultimately improves the quality of financial reporting.
+Keywords: Audit Committee,Business education,Earnings Management,Financial Literacy,financial specialization,2SLS
+Journal: International Journal of Management, Accounting and Economics
+Pages: 413-441
+Volume: 13
+Issue: 4
+Year: 2026
+DOI: 10.22034/ijmae.2025.542997.1844
+File-URL: https://www.ijmae.com/article_242064_afd956f9b8885123798fefc8e9b8dd4d.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:4:p:413
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Zahra Mehdizadeh Lavashloui
+Author-Name: Ali Ashtab
+Author-Name: Pari Chalaki
+Title: Improving Financial Performance Prediction by Non-Financial Metrics: A Machine Learning Approach
+Abstract: This study investigates the ability to improve corporate financial performance prediction by using non-financial measures including narrative disclosure tone and corporate governance indicators through advanced machine learning approaches. The research addresses a critical gap in emerging markets by examining how non-financial variables enhance prediction accuracy beyond traditional financial metrics, specifically within the Tehran Stock Exchange context where information asymmetry and governance challenges are pronounced. The main objective is to evaluate the improvement in prediction accuracy of financial performance for companies listed on the Tehran Stock Exchange by incorporating non-financial variables alongside traditional financial metrics. This quantitative study employs a post-event panel data approach, analyzing 140 companies listed on the Tehran Stock Exchange during 2014-2023. Data collection involved systematic extraction from audited financial statements, accompanying notes, corporate governance documents, and board reports. Narrative disclosure tone was quantified using VADER sentiment analysis adapted for Persian-translated annual reports (Cronbach's alpha = 0.85), employing the Loughran-McDonald financial dictionary for tone measurement. Machine learning algorithms including support vector machines, random forest (n_estimators=100, max_depth=10), and gradient boosting (XGBoost with learning_rate=0.1, n_estimators=200) were implemented with 5-fold cross-validation. Model performance was evaluated using regression-appropriate metrics including R² (coefficient of determination), adjusted R², mean squared error (MSE), and root mean squared error (RMSE), with baseline comparison against ordinary least squares (OLS) regression. Results showed that including narrative disclosure tone resulted in an average improvement of 4.1 percent in prediction accuracy (95% CI: 3.2%-5.0%, Cohen's d = 0.72). Corporate governance indicators provided a more substantial improvement of 8.2 percent (95% CI: 7.1%-9.3%, Cohen's d = 1.32). A critical finding is that narrative disclosure tone demonstrates significantly greater impact on market-based measures (Tobin's Q, price-to-book ratio) compared to accounting measures (ROA, ROE) with p=0.019, while corporate governance indicators show uniform impact across all performance measures (p=0.893). The gradient boosting algorithm (XGBoost) achieved the highest prediction accuracy (R²=0.973 for ROE), followed by random forest (R²=0.967 for ROA). This study provides empirical evidence that integrating non-financial variables significantly enhances financial performance predictability in emerging markets, with practical implications for investors, analysts, and regulators.
+Keywords: Corporate Governance,exchange,financial performance prediction,non-financial metrics,narrative disclosure tone,Machine Learning
+Journal: International Journal of Management, Accounting and Economics
+Pages: 442-471
+Volume: 13
+Issue: 4
+Year: 2026
+DOI: 10.22034/ijmae.2025.551014.1876
+File-URL: https://www.ijmae.com/article_242063_945d3fbd40e2c7bcb0754909162eca18.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:4:p:442
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fatemeh Ansari
+Author-Name: Mohsen Ebrahimi
+Title: Institutions First: The Conditional Effects of Investment Freedom on Financial Development in MENA (2004–2020)
+Abstract: This study re-examines the developmental promise of financial liberalization in the Middle East and North Africa (MENA), a region characterized by institutional fragility and oil dependence. Using panel data from 11 MENA countries over the period 2004–2020, we construct a composite financial development index and estimate its determinants through fixed-effects regressions with robust Driscoll-Kraay standard errors. The results show that investment freedom significantly reduces financial development (β = -0.0191, p < 0.000). Importantly, the interaction between investment freedom and rule of law is also negative and significant (β = -0.0067, p = 0.0008), suggesting that even in countries with relatively stronger legal institutions – such as the United Arab Emirates and Saudi Arabia – liberalization may enhance elite capture rather than broaden inclusion. In contrast, financial freedom has a positive and significant effect (β = 0.0107, p = 0.002). Financial globalization, whether measured by total capital flows (β = 0.0347, p = 0.122) or by foreign direct investment (β = -0.0054, p = 0.488), shows no statistically significant effect. These findings challenge the assumption that openness automatically enhances financial progress. Instead, it is acknowledged that in rentier and post-authoritarian contexts, institutional preconditions must precede liberalization. Without credible governance, financial openness risks deepening exclusion and systemic fragility rather than providing inclusive growth.
+Keywords: Financial Development,investment freedom,financial globalization,panel data,MENA
+Journal: International Journal of Management, Accounting and Economics
+Pages: 472-496
+Volume: 13
+Issue: 4
+Year: 2026
+DOI: 10.22034/ijmae.2025.543346.1848
+File-URL: https://www.ijmae.com/article_242062_d9b0474154562c47ac4ac57a1bb8a566.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:4:p:472
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Habeeb Olayiwola
+Author-Name: Samson Sanyaolu
+Title: Digital Finance as a Catalyst for Sustainable Development in Nigeria
+Abstract: This study used quarterly data from 2009 to 2023 to examine the nexus between digital finance and sustainable development in Nigeria. Ex post facto research design was used in this research. One dimension of sustainable development was considered in this study. This dimension was proxied by CO2 tons per capita (measure of environmental sustainability). The number of commercial bank branches (NOB), Webpay (VWPAY), Automated Teller Machine (VATM), Point of Sale (VPOS), Mobile Payment (VMP), and individual access to the internet (IDT) were used as proxies for digital finance. The World Development Indicators and the Central Bank of Nigeria (CBN) statistical bulletin served as the sources of data. Estimation techniques include descriptive and correlation analyses, Autoregressive Distributed Lag (ARDL) and Error Correction Model (ECM). Hence, the findings indicate both short- and long-term period of interactions exist between digital finance and sustainable development in Nigeria. As a results, the ECM confirmed that short run disequilibrium was corrected in the long run at 35%. The study concluded that digital financial instruments played significant roles in achieving sustainable development in Nigeria. It was therefore recommended among others, that the apex bank should provide sufficient digital finance directives to all financial institutions to adapt, embrace, and shift to digital technology in order to achieve sustainable development in Nigeria.
+Keywords: ARDL,ATM,Mobile Banking,Online Banking,PoS
+Journal: International Journal of Management, Accounting and Economics
+Pages: 497-510
+Volume: 13
+Issue: 4
+Year: 2026
+DOI: 10.22034/ijmae.2026.540166.1833
+File-URL: https://www.ijmae.com/article_242065_31ab5d79e0beccb602c24bc4a2087f43.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:4:p:497
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mahfuzul Hoque
+Author-Name: Asia Khatun
+Author-Name: Raihan Sobhan
+Title: Sustainability Reporting and Earnings Management: Evidence from State-Owned Firms of an Emerging Economy
+Abstract: This study investigates the relationship between sustainability reporting and earnings management in the context of state-owned manufacturing enterprises (SOEs) in Bangladesh, an emerging economy where governance structures and reporting practices remain under significant scrutiny. Using panel data from 17 manufacturing SOEs listed in Bangladesh for the period 2018–2023, this study applies a content analysis approach based on Global Reporting Initiative (GRI) standards to construct a sustainability reporting index. Earnings management is measured through discretionary accruals, while several board and firm-specific variables are controlled for in the analysis. Both OLS and Fixed Effects models have been used to test the hypothesis. Initial findings show an increasing trend in sustainability reporting by the SOEs. The regression results reveal that sustainability reporting significantly affects earnings management, though the direction of the association is mixed across contexts. Consistent with legitimacy theory, greater sustainability disclosure is found to reduce incentives for earnings manipulation by enhancing transparency and stakeholder trust. These findings contribute to the growing literature on sustainability disclosure in developing economies by highlighting the dual role of sustainability reporting in curbing and, at times, facilitating earnings management. The study provides practical insights for regulators, policymakers, and managers aiming to strengthen accountability and foster sustainable governance in Bangladesh’s state-owned enterprise sector.
+Keywords: Bangladesh,Earnings Management,Emerging economy,State-owned enterprises,Sustainability Reporting
+Journal: International Journal of Management, Accounting and Economics
+Pages: 511-530
+Volume: 13
+Issue: 4
+Year: 2026
+DOI: 10.22034/ijmae.2026.542186.1874
+File-URL: https://www.ijmae.com/article_242174_14f924ec09603ebe91f1bfca8d6fe756.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:4:p:511
+

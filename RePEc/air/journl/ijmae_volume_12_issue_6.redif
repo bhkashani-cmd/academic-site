@@ -1,0 +1,146 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Sara Baghi
+Author-Name: Akbar Zavari Rezai
+Title: Investor Sentiment, Audit Quality, and Stock Returns: An AI-Driven Approach
+Abstract: The objective of the present research is to investigate the impact of investor sentiment on stock returns, emphasizing the moderating role of audit quality, using artificial intelligence methods within the period of 2012 to 2024. In this research, financial data of manufacturing companies listed on the Tehran Stock Exchange were collected and analyzed using six machine learning models, including Artificial Neural Networks (ANN), Multilayer Perceptrons (MLP), Decision Tree, Random Forest, Cerebellar Model Articulation Controller (CMAC) neural networks, and Gradient Boosting methods. The variables under investigation included investor sentiment (SENT), audit quality (AQ), the interaction variable (SENT × AQ), and Fama-French market risk factors. Multiple performance metrics and cross-validation methods were used to evaluate the models. The results demonstrate that investor sentiment is the most significant predictor of stock returns across all AI models, with importance levels ranging from 28.3% to 33.8%, particularly achieving 33.8% in Gradient Boosting and 31.5% in Random Forest models. Audit quality emerged as the second most critical variable with importance levels of 23.5% to 26.4% across different models. The interaction variable (SENT × AQ) showed substantial moderating effects with importance ranging from 18.6% to 25.4%, reaching 24.7% in Decision Tree models, providing strong statistical evidence for the moderating role of audit quality. Gradient Boosting methods achieved superior performance with R² = 0.911 and prediction accuracy of 93.8%, followed by Random Forest with R² = 0.892. Cross-validation results (5-fold, 10-fold, and time-series) confirmed model stability and generalizability.
+Keywords: Artificial intelligence,Audit Quality,Investor Sentiment,Fama French model,Machine Learning,Stock Returns
+Journal: International Journal of Management, Accounting and Economics
+Pages: 808-841
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15824068
+File-URL: https://www.ijmae.com/article_222106_c06029d915cf9cf5a47b25a500dc606a.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:808
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Magreth Felix
+Author-Name: Ismail Changalima
+Author-Name: Goodluck Ntangeki
+Title: The Influence of Sustainable Supplier Management Practices on Organizational Performance: A Case of Dodoma Quality Furniture in Tanzania
+Abstract: Despite the growing attention to sustainability in supply chain management, empirical evidence on how sustainable supply chain practices directly influence organizational performance, particularly from the perspective of developing countries, remains limited. To fill this gap, the study examines the influence of sustainable supplier management practices on organizational performance. The study relied on the data obtained through structured questionnaires from randomly selected 80 respondents from Dodoma quality furniture located in Dodoma city, Tanzania. The collected data were analyzed by using descriptive and multiple linear regression analysis in IBM SPSS version 25. The findings reveal that sustainable supplier management practices, including sustainable supplier selection, sustainable supplier integration, and sustainable supplier monitoring, are perceived as relevant in a manufacturing firm. Furthermore, the findings indicate that sustainable supplier selection, sustainable supplier integration, and sustainable supplier monitoring are positively and significantly related to organizational performance. These findings confirm that sustainable supplier management practices are critical determinants of organizational performance in the context of a manufacturing firm. The study emphasizes prioritizing sustainability in supply chain management to enhance long-term performance and gain a competitive edge in environmentally conscious markets. The positive role of sustainable supplier management practices on organizational performance urges policymakers to develop comprehensive policies supporting sustainable supplier practices, enabling organizations to achieve economic, environmental, and societal benefits while navigating competitive challenges.
+Keywords: performance,Sustainable supplier integration,Sustainable supplier monitoring,Sustainable supplier selection,sustainable supply chain management
+Journal: International Journal of Management, Accounting and Economics
+Pages: 842-864
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15824516
+File-URL: https://www.ijmae.com/article_223029_0428842c6a6a4f695ac6dfc67c74aaef.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:842
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Gordian Bwemelo
+Author-Name: Goodluck Mmari
+Author-Name: Robert Mashenene
+Title: Supplier Orientation and Furniture Manufacturing Small and Medium Enterprises’ Performance in Dar es Salaam, Tanzania: Customer Loyalty’s Role
+Abstract: Supplier orientation’s role in augmenting firms’ performance is gaining increasing attention from scholars. However, empirical research examining this relationship remains limited. Examination of the effects of supplier orientation dimensions on SMEs’ performance in the sector involved in furniture manufacturing in Dar es Salaam, Tanzania was undertaken, focusing on the mediating role of customer loyalty. Using a quantitative correlational design, data from 350 furniture manufacturing SMEs through a cross-sectional questionnaire-based survey were attained. By employing covariance-based structural equation modelling, the analysis revealed that customer loyalty partially acted as a mediator between supplier orientation dimensions and furniture-manufacturing SMEs performance relationships. Notably, collaborative relationships with suppliers exhibited the strongest positive indirect effect on furniture-manufacturing SMEs performance (β = 0.1621), followed by information sharing with suppliers (β = 0.1265). In contrast, supplier evaluation and selection exhibited the weakest indirect effect (β = 0.0543). The outcomes stipulate the importance of fostering long-term collaborative relationships and effective information sharing with suppliers to enhance customer loyalty and drive superior firm performance. The furniture manufacturing SMEs should prioritise in building long-term supplier collaborations that create synergy for open communication and value co-creation to nurture customer loyalty and, consequently, drive superior firm performance.
+Keywords: Collaborative relationship with suppliers,Furniture Manufacturing SMEs,Information sharing with suppliers,Supplier orientation,Supplier evaluation and selection
+Journal: International Journal of Management, Accounting and Economics
+Pages: 865-898
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15824866
+File-URL: https://www.ijmae.com/article_223032_664482a3ac9f3c12f8c541c5187f78fc.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:865
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ali Al-ahnomi
+Title: The Role of Zakat Dedication as a Tax Incentive in Enhancing Compliance and Achieving Financial Justice
+Abstract: This study examines the effect of recognizing zakat deductibility from income tax to enhance zakat compliance and promote fiscal justice in Yemen. Drawing on the Tax Incentive Theory, Fiscal Justice Theory, Legal Commitment Theory, and the Theory of Planned Behavior (TPB), the study explores five key predictors: legislation, financial burden, administrative procedures, community awareness, and ethical alignment. A total of 401 valid responses were analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM). Findings indicate a strong and significant impact of zakat deductibility on compliance behavior (β = 0.744, R² = 0.554, f² = 1.242, Q² = 0.550, p < 0.001). Administrative procedures emerged as the most influential factor (β = 0.402), while legislation (β = 0.116) and awareness (β = 0.113) showed smaller yet significant effects. These results highlight the importance of transparent, simplified, and technology-enabled systems in promoting voluntary compliance. The study contributes to Islamic fiscal literature and offers policy guidance for integrating zakat within national tax systems in fragile contexts. Key recommendations include digitizing zakat registration, aligning zakat and tax policies, and enhancing outreach in underserved areas.
+Keywords: compliance,Fiscal Justice,legal commitment,PLS-SEM,Tax Deduction,tax incentive,Yemen,Zakat
+Journal: International Journal of Management, Accounting and Economics
+Pages: 899-928
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15825172
+File-URL: https://www.ijmae.com/article_223030_cc991ba4c144cb2506e6d45ea02953d3.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:899
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Haidar Haidar
+Title: Value Relevance of Cash Flow Statements in Syrian Banks: Evidence from the Damascus Securities Exchange
+Abstract: This study investigates whether the cash flow statements of banks provide valuable insights for Syrian investors. Using Ohlson's (1995) theoretical framework, which links stock prices to the book value of equity, earnings, and cash flow elements, the research aims to determine if factors like economic instability and investor behavior affect the value relevance of these accounting metrics. A model based on Ohlson's theory analyzes data from 11 Syrian private banks listed on the Damascus Securities Exchange (DSE) from 2010 to 2022. The analysis includes cash flow statement metrics to assess the usefulness of operating, investing, and financing cash flows. The pooled OLS technique, with heteroscedasticity correction, is employed. Findings show that operating cash flows (coefficient = 0.1131815, p-value = 0.224) do not offer insights beyond earnings, indicating they don’t explain stock price variations beyond what earnings do. Moreover, substituting operating cash flows with earnings does not significantly enhance the model's explanatory power (R² = 0.5263 vs. R² = 0.5193). Similarly, investing cash flows (coefficient = -0.001404, p-value = 0.634) and financing cash flows (coefficient = 0.6836272, p-value = 0.336) reveal no marginal value relevance. These outcomes may reflect the unique Syrian economic conditions, suggesting that cash flows do not improve earnings' predictive power for investors. Policymakers should consider promoting alternative performance metrics, such as adjusted earnings measures and loan portfolio quality, to better assess financial health in crisis contexts.
+Keywords: cash flow statements,Emerging markets,Value Relevance,Ohlson model,Operating Cash Flows,Syrian banks
+Journal: International Journal of Management, Accounting and Economics
+Pages: 929-948
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15827021
+File-URL: https://www.ijmae.com/article_223027_c9f1505991548f8a5ab1ea18587f2856.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:929
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Amin Khamar
+Author-Name: Mojtaba Abbasian
+Author-Name: Jafar Salemi
+Title: Investigating the Impact of High-Performance Work Systems on Employees' Job Satisfaction: A Case Study of Sepah Bank Branches in Sistan and Baluchestan
+Abstract: In today's world, organizations are critical components of countries' economic and social development. In the meantime, human resources are one of the most vital organizational assets and play an essential role in the performance and success of organizations. High-performance work systems will have a strategic approach that influences the macro variables of the organization, such as the organization's performance and human resources achievements. Therefore, this study examines the impact of High-Performance Work Systems (HPWS) on employee job satisfaction within Sepah Bank branches in Sistan and Baluchestan province. Employing a quantitative approach, data was collected from 245 employees using validated questionnaires, and their content validity was confirmed. Cronbach's alpha was used to measure reliability, and it was calculated as 0.84 for the work systems questionnaire and 0.78 for the job satisfaction questionnaire. Descriptive and inferential tests (Smirinov-Kolmogrov and linear regression) were used to analyze the data using SPSS software. The findings indicate a significant positive relationship between HPWS components (selection, training, rewards, empowerment, and job security) and job satisfaction. The study highlights managerial implications by recommending HR strategies that enhance employee satisfaction and performance. However, limitations include reliance on self-reported data and excluding potential moderating factors.
+Keywords: high-performance work systems,Job Satisfaction,Sepeh Bank,Sistan and Baluchestan
+Journal: International Journal of Management, Accounting and Economics
+Pages: 949-965
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15828071
+File-URL: https://www.ijmae.com/article_223028_5e3bbceeaccd67ec8437d0bfd1a94c07.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:949
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Nurus Sobakh
+Title: The Role of Brand Awareness in Shaping Customer Purchase Decisions: A Phenomenological Study of Nora Tex, a Muslim Fashion MSME in Indonesia
+Abstract: This phenomenological study explores how brand awareness influences customer purchase decisions in Nora Tex, a Muslim fashion micro, small, and medium enterprise (MSME) in Indonesia. By addressing a gap in literature on culturally embedded branding, the research delves into the emotional and religious dynamics driving consumer behavior in faith driven markets. Using a qualitative approach, data were collected from three key informants Nora Tex’s owner, an internal staff member, and a loyal customer through in-depth interviews, participant observation, and documentation. The analysis followed the Miles and Huberman framework, including data reduction, display, and conclusion drawing. The findings reveal that brand awareness not only operates through recognition but also through emotional connection and Islamic value alignment. Customers perceive Nora Tex as embodying modesty, trust, and religious identity, reinforcing brand loyalty. The study concludes that branding strategies in MSMEs can be strengthened through experiential consistency, culturally resonant messaging, and value-based engagement. These insights offer strategic implications for branding in religious and identity-based MSME contexts, highlighting the importance of aligning brand identity with cultural values to foster customer loyalty.
+Keywords: Brand awareness, customer purchase decision, MSME Nora Tex,Muslim fashion
+Journal: International Journal of Management, Accounting and Economics
+Pages: 966-976
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15831046
+File-URL: https://www.ijmae.com/article_223031_914ff20f8415edef4fe626e869a869d8.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:966
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ahmed Abdulkareem Alanisi
+Author-Name: Bahareh Abedin
+Author-Name: Morteza Movaghar
+Author-Name: Abolhasan Hosseini
+Author-Name: Erne Suzila Kassim
+Title: Ethical Dimensions in Digital Marketing: A Systematic Literature Review
+Abstract: This study conducts a systematic review of the literature concerning the ethical requirements of digital marketing, focusing on the evolving landscape over the past two decades. As digital marketing becomes increasingly integral to business strategies, understanding its ethical implications is crucial for maintaining consumer trust and compliance with legal standards. This research aims to examine the ethical principles that guide digital marketing and to analyze, combine, and classify key findings from previous studies. Following a rigorous systematic literature review (SLR) method based on PRISMA and the framework of Xiao and Watson (2017), this review analyzes 55 peer-reviewed articles published between 2000 and 2024. The study identifies nine key ethical dimensions, including ethics related to product and service, promotion, salesperson conduct, religion, place, ethical norms, internet space, price, and decision-making. Through thematic analysis, it develops an integrative conceptual framework that synthesizes deontological ethics, stakeholder theory, and culturally grounded paradigms such as Islamic business ethics. The findings emphasize the importance of embedding ethical values in digital strategies to ensure legal and moral alignment. This review offers both theoretical and practical contributions by proposing a multi-dimensional model of digital marketing ethics tailored to challenges such as AI-driven personalization, data privacy, and misinformation. It provides actionable insights for scholars and practitioners seeking to navigate ethical complexities in the digital marketing ecosystem.
+Keywords: Digital marketing,Ethical Online Marketing,Marketing Ethics,Moral Principles in Marketing,Systematic literature review
+Journal: International Journal of Management, Accounting and Economics
+Pages: 977-1013
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15831957
+File-URL: https://www.ijmae.com/article_223776_41f0a37ea9b76ccf9b2fc43cd64f6520.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:977
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Samuel Bangura
+Title: An Evaluation of the Concept of Green Transformational Leadership in BRICS+ Countries: evidence from existing studies
+Abstract: Green transformational leadership (GTL) integrates environmental sustainability into the core principles of transformational leadership idealized influence, inspirational motivation, intellectual stimulation, and individualized consideration offering a framework to address climate change and foster sustainable development in BRICS+ countries. Comprising Brazil, Russia, India, China, South Africa, and new members Egypt, Ethiopia, Iran, Saudi Arabia, and the UAE, BRICS+countries represent 36% of global GDP and 45% of the world’s population, aiming to challenge Western-dominated governance and promote a multipolar order. Despite its potential, green transformational leadership (GTL) application in BRICS+countries is underexplored, with limited research addressing its impact on sustainable organizational outcomes across diverse cultural and economic contexts. Existing studies often apply Western frameworks, overlooking BRICS+'s unique socio-political dynamics. This study examines green transformational leadership's (GTL) role in promoting green organizational culture, innovation, and employee behaviours during economic transitions, using a systematic literature review of policy documents and academic literature. It highlights green transformational leadership (GTL)'s alignment with BRICS+'s goals of economic growth, geopolitical influence, and environmental responsibility while addressing challenges like political instability, fossil fuel reliance, and resource constraints. Institutional theory underscores green transformational leadership (GTL)’s adaptability to coercive, normative, and mimetic pressures, yet varying developmental stages and national priorities create implementation disparities. Findings suggest green transformational leadership (GTL) can drive sustainability through tailored strategies, policy stability, and BRICS+ collaboration, positioning these nations as leaders in global climate governance.
+Keywords: BRICS Plus,climate change,green transformational leadership,pro-environmental behaviours and environmental sustainability
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1014-1033
+Volume: 12
+Issue: 6
+Year: 2025
+DOI: 10.5281/zenodo.15832087
+File-URL: https://www.ijmae.com/article_223033_d642912010c133843ba0ff5381439171.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:6:p:1014
+

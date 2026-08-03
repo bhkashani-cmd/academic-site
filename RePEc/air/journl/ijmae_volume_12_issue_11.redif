@@ -1,0 +1,117 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fatemeh Malmir
+Author-Name: Farshid Kheirollahi
+Author-Name: Hossein Yarahmadi
+Author-Name: Farid Sefaty
+Title: Comparing XGBoost and ARCH-LM Models for IPO Valuation in the Iranian Capital Market
+Abstract: The main objective of this research is to conduct a rigorous comparative analysis of the performance of the eXtreme Gradient Boosting (XGBoost) algorithm against the traditional Generalized Autoregressive Conditional Heteroskedasticity (ARCH-LM) model in predicting initial public offering (IPO) valuation ratios in the Iranian capital market. This study focuses on three key dependent valuation variables: the market-to-book value ratio (m2b), the enterprise value-to-assets ratio (v2a), and the enterprise value-to-sales ratio (v2s). Utilizing a cross-sectional dataset of 163 Iranian companies (42 listed and 121 over-the-counter) during the 2013-2023 fiscal period, the research employs a robust out-of-sample validation approach. Performance is benchmarked using prediction accuracy, economic significance, and computational efficiency. Diebold-Mariano tests and bootstrapping were applied to ensure the statistical significance of predictive differences between the models. The comparative analysis revealed that the XGBoost model demonstrates statistically significant superiority over the ARCH-LM model across all predictive metrics. The out-of-sample (OOS) Coefficient of Determination (R2) showed an improvement ranging from 9.7% to 10.9% across the valuation ratios, with a Root Mean Square Error (RMSE) reduction between 32.6% and 35.5%. The OOS R2 values for XGBoost ranged from 0.715 to 0.768, with all predictive differences confirmed as significant (p<0.01). XGBoost offers a substantially more accurate and robust framework for IPO valuation compared to ARCH-LM, providing considerable economic advantages. While the machine learning approach entails higher computational demands, its superior predictive accuracy suggests its potential as a more effective tool for risk mitigation and decision-making, supporting the modernization of valuation practices in the Iranian market. Way for the digitalization of valuation processes in the Iranian market.
+Keywords: ARCH-LM,Initial Public Offerings (IPOs),Iranian stock market,Valuation Ratios,Xgboost
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1635-1664
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.542557.1840
+File-URL: https://www.ijmae.com/article_231230_c66b4ecfe3479e57f6f45a47ef72eeea.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1635
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Petro Maziku
+Title: Impact of Non-Tariff Barriers on Maize Trade Volume at the Manyovu Border: Evidence from Tanzania-Burundi Cross-Border Traders Using Regression Analys
+Abstract: The recent studies on the maize export through the Tanzania-Burundi border reveals a significant 50% decline in trade volume in 2023. This study analyzed the Impact of Non-Tariff Barriers on maize trade volume at the Manyovu Border focusing from Tanzania-Burundi Cross-Border Trade. Using a cross-sectional design with data from 150 respondents and multiple regression analysis, the study analysed the impact of various NTBs on maize trade. The key findings indicated that costs for soliciting export permits reduced volume of maize trade by 23% and business license costs to a 17% decline in trade. Similarly, road blocks and weighing bridge reduced the maize trade volume by 15% and 19% respectively. These results highlight how NTBs increases transaction cost, hindering efficient of cross-border maize trade. The study recommends, Ministry of Agriculture and Ministry Industry and Trade prioritize initiatives to reduce NTBs, such as digitalization of customs procedures, fully implementing the One-Stop Center and enforcing the East African Community's Elimination of Non-Tariff Barriers Act. Such initiatives are critical in lowering business transaction costs for traders and transporters, thus facilitating smoother and more efficient trade between the two countries. This study contributes to the growing body of evidence on NTBs effect in less developed countries.Keywords: NTBs, Transaction costs, Regression analysis, Manyovu Boarder, Tanzania and Burundi
+Keywords: Burundi,Manyovu Boarder,NTBs,regression analysis,Tanzania,Transaction Costs
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1665-1696
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.539477.1830
+File-URL: https://www.ijmae.com/article_232395_1ca2c139e54108688a4c09306ede8129.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1665
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mollah Islam
+Author-Name: Md. Riad Hassan
+Author-Name: Md. Miraj Hossen
+Title: Realizing the Threshold Effect of Trade Openness in Finance-FDI Nexus: Evidence from Belt and Road Initiative Countries
+Abstract: A country’s attitude towards cross-border trade and its level of openness exert a significant effect on inward foreign direct investment (FDI) flows, which is yet to be empirically answered. Thus, this study explores how trade openness moderates the effect of financial development on FDI inflows in BRI countries, with an emphasis on threshold effects. The panel threshold estimator shows a single significant threshold of 4.524 (or 92.241%) of financial development units, above which the relationship between FD-FDI turns nonlinear. It implies that FD may positively attract FDI when a country achieves a trade openness (TO) beyond a certain threshold level while below the said threshold level, FD may not attract FDI convincingly. The threshold identified indicates a moderate level of TO. The results are robust under different proxies and sub-samples. Thus, the policymakers are suggested to enhance the financial system and concentrate on maintaining a minimum level of TO while devising policies to attract FDI.
+Keywords: BRI,FDI,Financial Development,GMM,PTM,Trade openness
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1697-1719
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.232405
+File-URL: https://www.ijmae.com/article_232405_12897d1bfe3515bffea13a9372311215.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1697
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Made Widiyasa
+Author-Name: Suhermin Suhermin
+Title: The Role of Work–Life Balance in Linking Stress, Support, and Turnover Intentions in Hospitality Industry
+Abstract: A higher level of employees’ turnover becomes a serious issue for the hospitality industry, including PRQ Surabaya, which has a significantly higher turnover in 2024. This study analyses the effect of job stress and perceived organizational support on turnover intention, with work-life balance as a mediating variable. The study is based on Social Exchange Theory, which underlies the bilateral principles between organizations and employees. This research uses a quantitative causal design. Furthermore, the data collection technique used was a census in which all members of the population were the sample. Using data from 51 PRQ Apartment employees in Surabaya, the study finds that work–life balance partially mediates the effect of perceived organizational support on turnover intention (β = 0.189, p = 0.042) but does not mediate the effect of job stress. Unexpectedly, WLB positively predicts turnover intention (β = 0.406, p = 0.010). Practically, management should reduce stress, enhance supervisor support, and redesign Work-Life Balance policies to align with employee needs. This study contributes to strengthening Social Exchange Theory by highlighting the partial mediating role of WLB and revealing the paradox where WLB actually increases turnover intention. Practically, the findings encourage PRQ Apartment management to enhance organizational support, reassess WLB policies, and manage job stress to reduce turnover.
+Keywords: Hospitality Industry,Job Stress,perceived organizational support,PLS-SEM,Turnover intentions,work-life balance
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1720-1746
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.539824.1832
+File-URL: https://www.ijmae.com/article_230523_86489203d277ec49c3ef113782de8523.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1720
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Keziah Gakahu
+Author-Name: Maria Mung'ara
+Author-Name: Gilbert Njagi
+Title: Analysis of Diversification Strategies and Organizational Performance of Private Information Technology Companies in Kenya
+Abstract: This study examined the effect of diversification strategies on the performance of private IT companies in Kenya, with government ICT policy included as a moderating variable. The objectives were to evaluate the influence of concentric diversification on company performance of private information technology companies in Kenya, analyze the influence of conglomerate diversification (Mergers, Acquisitions and Joint Ventures) on company performance of private information technology companies in Kenya and to find out the moderating influence of Government IT Sector Policy on the relationship between diversification strategy and company performance of private information technology companies in Kenya. The study was mainly anchored on Resource-Based Theory, Dynamic Capabilities Theory, and Balanced Scorecard Theory. A descriptive research design was employed. The population comprised 433 registered private IT firms, from which a simple random sample of 208 companies was drawn. Out of the targeted 208 respondents, 175 returned completed questionnaires, yielding a response rate of 84%. Data was collected using structured questionnaires and analyzed through descriptive statistics, correlation, and multiple regression analyses using SPSS. The findings indicate that concentric and conglomerate diversification strategies positively and significantly influence company performance. However, the moderating effect of government ICT policy on this relationship was weak and statistically insignificant. The coefficient of determination (R²) was 0.774, showing that 77.4% of the variance in performance could be explained by the diversification strategies applied. The study concludes that internal diversification strategies play a more critical role in driving performance than external policy factors. It recommends that private IT firms strategically invest in diversification and innovation to enhance competitiveness and sustain growth.
+Keywords: Diversification,Government ICT policy,Performance
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1747-1774
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.539048.1829
+File-URL: https://www.ijmae.com/article_232404_dc6964300cf352759a64d432298a3dea.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1747
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Misbahruddin Misbahruddin
+Author-Name: Akram Sukma
+Author-Name: M Irwan
+Title: Determinants of Tax Compliance for Individual Taxpayers: The Moderating Role of Tax Consultants at West Mataram Tax Office
+Abstract: This study aims to examine the influence of understanding tax regulations, willingness to pay taxes, quality of tax office services, and tax sanctions on the fulfilment of individual taxpayers' tax obligations, by analyzing the role of tax consultants as a moderating variable. The research sample was taken using a purposive sampling technique from 100 individual taxpayers registered at the West Mataram Pratama Tax Service Office. The collected data were analyzed using Moderated Regression Analysis (MRA) with SPSS 27. The results showed that understanding tax regulations, willingness to pay taxes, and tax sanctions had a positive and significant effect on the fulfilment of tax obligations. However, the quality of tax office services did not have a significant effect, and the role of tax consultants was unable to moderate the influence of understanding tax regulations, willingness to pay taxes, quality of tax office services, and tax sanctions on the fulfilment of individual taxpayers' tax obligations. This study implies that the fulfilment of individual taxpayers' tax obligations is more effectively carried out through strengthening the understanding of tax regulations, strengthening willingness, and enforcing tax sanctions. Meanwhile, improving services is not yet effective in increasing compliance. In addition, based on the test results, it is necessary to evaluate the effectiveness of the role of tax consultants in supporting individual taxpayer compliance. This finding is also in line with major theories such as the Theory of Planned Behavior, attribution theory, compliance theory, and tax awareness theory.
+Keywords: Service Quality,Tax Compliance,Tax Consultants,tax knowledge,Tax Penalties,Willingness to pay
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1775-1816
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.547147.1859
+File-URL: https://www.ijmae.com/article_231228_d72a2f114fe690c885bbc07d65dca529.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1775
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Delnia Mokhtarifar
+Author-Name: Jamaleddin Mohseni Zonouzi
+Author-Name: Kiumars Shahbazi
+Title: The Role of Regulatory Quality in Optimizing the Impact of Oil Revenues on Economic Growth Process
+Abstract: This study investigates the role of Regulatory Quality in the impact of oil revenues on economic growth for the countries of the Persian Gulf including Iran by applying a PSTR model from 2000 to 2023. Various studies on the relationship between oil revenues and economic growth have yielded mixed results, with few examining country-specific conditions, such as regulatory quality, in this context. In most of them, the non- linear relationships have not been considered. Thus, this paper examines the nonlinear association between oil revenues and economic growth. For this purpose, the paper uses the regulatory quality index, GDP growth, oil revenues, employment rate, size of government and capital formation. The results of model estimation reject the linearity hypothesis. Considering a transfer function with a threshold limit that represents a dual model is enough to define the nonlinear relationship between the studied variables and the quality of regulation considered as the transfer variable. The results show that the increase of oil revenues has a negative effect in the first regime and in the second regime has a positive effect on economic growth. It means that in a society with high quality of regulatory, increasing the oil revenues can improve economic growth. capital formation has a positive effect in both regimes. Employment rate has a negative effect in first regime and positive on the second one. the size of government has a negative effect on economic growth in both regimes.
+Keywords: Economic Development,Oil income,Panel Smooth Transition Regression (PSTR),Regulation
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1817-1838
+Volume: 12
+Issue: 11
+Year: 2025
+DOI: 10.22034/ijmae.2025.232408
+File-URL: https://www.ijmae.com/article_232408_11fa84ac12e1895b9e13ecc02933bacf.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:12:y:2025:i:11:p:1817
+
