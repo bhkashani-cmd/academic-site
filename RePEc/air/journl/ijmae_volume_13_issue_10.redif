@@ -1,0 +1,102 @@
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bashar Qasim Tuaib
+Author-Name: Ali Ashtab
+Author-Name: Pari Chalaki
+Title: Application of Artificial Intelligence in Predicting Banking Crises: Analysis of Audited Data in Accordance with National Standards in Iran’s Banking System
+Abstract: This study aims to develop and validate an artificial intelligence-based early warning system for predicting banking crises in Iran by integrating audited financial data, audit quality indicators, and macroeconomic variables, thereby improving the accuracy and interpretability of crisis forecasting for regulatory and supervisory applications. A comprehensive dataset of 792 bank-year observations from 22 Iranian banks over the period 2004–2023 was analysed. The study employed multiple predictive models, including XGBoost, Random Forest, LSTM, Transformer, and classical logistic regression. Key variables included the capital adequacy ratio (CAR), non-performing loans (NPL), return on assets (ROA), liquidity ratios, audit opinion types, audit tenure, disclosure quality, GDP growth, inflation, and exchange rate volatility. Model performance was evaluated using 5-fold cross-validation and accuracy, sensitivity, specificity, F1-score, AUC-ROC, and AUC-PR metrics. SHAP (SHapley Additive exPlanations) analysis was used to ensure model interpretability and to identify key risk drivers. XGBoost achieved the highest predictive accuracy (96.10%), AUC-ROC (0.982), and F1-score (0.96), outperforming logistic regression by reducing Type I errors by 59.8% and Type II errors by 61.1%. SHAP analysis showed that CAR (20.8%), NPL (17.6%), and ROA (15.6%) were the most influential predictors, while audit quality variables contributed 13.5% to overall model performance. The NLP module achieved 93.2% accuracy in classifying audit opinions and an AUC-ROC of 0.947 using textual features alone. Artificial intelligence, particularly XGBoost combined with SHAP interpretability and NLP-enhanced audit analysis, provides a robust and actionable framework for predicting banking crises in Iran, offering significant improvements over classical statistical methods for proactive regulatory intervention.
+Keywords: Audited Financial Data,Audit Quality,Artificial intelligence,Banking Crisis Prediction,Xgboost,SHAP Interpretability
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1251-1288
+Volume: 13
+Issue: 10
+Year: 2026
+DOI: 10.22034/ijmae.2026.583454.1998
+File-URL: https://www.ijmae.com/article_245370_39ab65c5e4e5a5ae7f528254f7847857.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:10:p:1251
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Salim Hayis
+Author-Name: Kiumars Shahbazi
+Title: Financial Openness and Macroeconomic Variables' Impact on Multi-dimensional Financial Development in AHUMI countries
+Abstract: This study investigates the effects of institutional quality, trade liberalization, government expenditure, inflation, and economic growth on multi-dimensional financial development. For this aim to use the Panel Smooth Transition Regression (PSTR) model with financial openness as the transition variable. The statistical population comprises 20 AHUMI economies from 2002 to 2021. The results confirm a nonlinear relationship among the variables with multi-dimensional financial development. Regime change occurs at a threshold value of 1.231. Ten countries fall into the first regime; and ten countries fall into the second regime. The speed of change from the first to the second regime is 1.75. In the first regime, institutional quality, trade liberalization, and government expenditure exert a significant positive effect on financial development, while inflation acts as an obstacle. Economic growth remains statistically insignificant. In the second regime, trade liberalization and government expenditure have a negative effect, and inflation's negative impact is severely amplified. Regarding institutional quality, while its overall effect remains positive, the interaction effect of financial openness and institutional quality moderates the impact of institution quality in both regimes. Policymakers should tailor their approaches to the level of financial openness; in the first regime, they should use expansionary policies (increasing government expenditure). In the second regime, they should prioritize fiscal discipline and inflation control to prevent capital flight. Finally, in economies with high financial openness, instead of imposing strict local regulations that create friction, the harmonization of national standards with international governance should be on the agenda to attract capital.
+Keywords: Financial Development,Financial Openness,Institutional Quality,multidimensional trade liberalization,PSTR
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1289-1324
+Volume: 13
+Issue: 10
+Year: 2026
+DOI: 10.22034/ijmae.2026.562031.1895
+File-URL: https://www.ijmae.com/article_245368_d0def4d83706635dc93a3f4557b2653d.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:10:p:1289
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Davood Feiz
+Author-Name: Azim Zarei
+Author-Name: Hadi Moradi
+Title: How Personality and Experience Influence Customer Values and Loyalty: Evidence from Iranian Young Consumers
+Abstract: This study examines a theory-informed contextual extension of established brand-prestige models by testing the associations between brand experience and brand personality, on the one hand, and brand prestige, on the other, and the subsequent associations of brand prestige with four dimensions of perceived value (functional, hedonic, social, and financial) and with two forms of brand loyalty (attitudinal and behavioral). The study is situated in the Iranian luxury smartphone market and focuses on young adult consumers, a context and population in which prior model configurations have not been systematically tested. The conceptual model was developed by extending the brand-prestige frameworks of Choi et al. (2017) and S. Kim et al. (2019) to a developing-country, young-adult, luxury-smartphone setting. Data were collected from 916 respondents through a questionnaire using a mall-intercept convenience sampling approach. The measurement and structural models were estimated using confirmatory factor analysis and structural equation modeling with maximum likelihood estimation. The results indicate that brand experience and brand personality are positively associated with brand prestige. Brand prestige, in turn, is positively associated with all four dimensions of perceived value (functional, hedonic, social, and financial). However, the paths from social value and hedonic value to behavioral loyalty were not supported. The findings contribute to the branding literature by specifying the boundary conditions under which established brand-prestige models hold in a developing-country, young-adult, luxury-smartphone context, and by identifying which perceived-value dimensions are associated with attitudinal versus behavioral loyalty in this setting. The study also clarifies that the cross-sectional, non-experimental design supports model-based associations rather than causal claims, and it outlines the theoretical and managerial implications of these context-specific findings.
+Keywords: Brand Experience,Brand personality,Brand Prestige,Iran,Perceived values
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1325-1356
+Volume: 13
+Issue: 10
+Year: 2026
+DOI: 10.22034/ijmae.2026.587210.2039
+File-URL: https://www.ijmae.com/article_245367_be235fd087152a78b669a188c69e125c.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:10:p:1325
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fatemeh Jafarinezhad
+Author-Name: Mohammad Reza Akhavan Anvari
+Author-Name: Kamyar Raissifar
+Title: The Impact of Emotional Intelligence on Project Performance: The Mediating Roles of Job Satisfaction and Project Commitment
+Abstract: Over the past decades, considerable research has aimed to improve project performance and identify key factors contributing to project success. Emotional intelligence (EI) has emerged as a crucial determinant due to its notable influence on project outcomes, highlighting the need to examine its relationship with project performance. This study investigates the structural links between emotional intelligence and project performance, considering job satisfaction and project commitment as mediating variables. Employing a questionnaire-based data collection approach, this applied research applies statistical analyses and structural equation modeling for data interpretation. The sample consists of 78 project managers and team members from a solar power project. Structural equation modeling was conducted using Smart PLS 3 software to analyze variable relationships. Contrary to initial expectations, no significant association was found between job satisfaction and project performance. However, the remaining hypotheses received empirical support, indicating that emotional intelligence is positively and significantly associated with project performance, job satisfaction, and project commitment. These results enhance the existing research on emotional intelligence within project management and highlight its crucial role in facilitating successful project outcomes.
+Keywords: Emotional intelligence,Job Satisfaction,Project Commitment,Project Performance and Project Manager
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1357-1378
+Volume: 13
+Issue: 10
+Year: 2026
+DOI: 10.22034/ijmae.2026.538703.1912
+File-URL: https://www.ijmae.com/article_245096_79a40d37d68efe9072e9a6eb96ffe220.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:10:p:1357
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Esmaeil Mousavi
+Author-Name: Mehdi Rezaei
+Author-Name: Zahra Jafary
+Title: The Impact of Ownership Structure on Corporate Social Responsibility in Iran
+Abstract: Research on the impacts of ownership structure on Corporate Social Responsibility (CSR) in Iran is limited. Nonetheless, it is widely argued that ownership structure is linked to CSR in developed countries. This study seeks to examine the impact of ownership structure on CSR in Iran. Utilizing a sample of 102 companies listed on the Tehran Stock Exchange (TSE) over the period from 2020 to 2025, we hypothesize that various types of stockholders possess distinct motivations regarding the firm's CSR activities. We categorized ownership structure into managerial ownership, institutional ownership, and foreign ownership, and analyzed their effects on CSR within the context of Iranian companies. The findings reveal that institutional and foreign ownership exert a significant positive effect on CSR ratings. Conversely, managerial ownership has a significant negative effect on the firm's CSR rating. Therefore, we conclude that different types of owners have varying effects on the firm's CSR engagement.
+Keywords: corporate social responsibility,Foreign Ownership,institutional ownership,Managerial Ownership
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1379-1394
+Volume: 13
+Issue: 10
+Year: 2026
+DOI: 10.22034/ijmae.2026.583606.2001
+File-URL: https://www.ijmae.com/article_245210_eea334d1255634c6d8ea8443f967b294.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:10:p:1379
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ali Azhdari
+Author-Name: Hamid Reza Shokrizadeh
+Author-Name: Fatemeh Morshedizad
+Author-Name: Faizeh Abuei
+Title: Organizational Justice and Perceived Organizational Support as Predictors of Nurses’ Workplace Outcomes: The Mediating Roles of Job Satisfaction and Organizational Commitment
+Abstract: Organizational justice and perceived organizational support (POS) are widely recognized as important factors influencing employee attitudes and workplace behaviors. This study examines the direct and indirect effects of organizational justice and perceived organizational support on nurses' organizational citizenship behavior (OCB) and perceived work facilitation (PWF), with job satisfaction and organizational commitment serving as mediating variables. The study employed an applied, quantitative research design using a descriptive-analytical survey approach. The statistical population consisted of nurses working at Shahid Sadoughi University of Medical Sciences in Yazd, Iran. Data were collected using standardized questionnaires measuring organizational justice, perceived organizational support, job satisfaction, organizational commitment, organizational citizenship behavior, and perceived work facilitation. Structural equation modeling (SEM) was used to test the proposed research model, and data were analyzed using LISREL and SPSS software. The significance of the indirect effects was further examined using bootstrap mediation analysis. The findings indicated that organizational justice and perceived organizational support exert significant direct effects on nurses' organizational citizenship behavior and perceived work facilitation. Bootstrap mediation analysis further demonstrated that job satisfaction and organizational commitment partially mediate these relationships, indicating that fair organizational practices and supportive work environments enhance positive work outcomes both directly and indirectly through employees' attitudes. By integrating organizational justice, perceived organizational support, job satisfaction, organizational commitment, organizational citizenship behavior, and perceived work facilitation within a single structural model, this study provides a comprehensive understanding of the mechanisms through which organizational factors shape positive nursing outcomes. The findings offer practical implications for healthcare managers seeking to strengthen employee engagement, improve workplace conditions, and promote high-quality nursing services through fair organizational practices and supportive organizational environments.
+Keywords: organizational citizenship behavior,organizational commitment,Organizational Justice,perceived organizational support,perceived work facilitation (PWF)
+Journal: International Journal of Management, Accounting and Economics
+Pages: 1395-1412
+Volume: 13
+Issue: 10
+Year: 2026
+DOI: 10.22034/ijmae.2026.547439.1861
+File-URL: https://www.ijmae.com/article_245369_cb1dd22518b4a3b64909117d5c4fdff5.pdf
+File-Format: application/pdf
+Handle: RePEc:air:journl:v:13:y:2026:i:10:p:1395
+
